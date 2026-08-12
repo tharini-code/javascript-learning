@@ -1,0 +1,27 @@
+#count{
+    display: block;
+    text-align: center;
+    font-size: 15em;
+
+}
+#conainer{
+    text-align: center;
+}
+.buttons{
+   font-size:1.5em ;
+   background-color: blue;
+   color: white;
+   border: 2px solid black;
+   border-radius: 5px;
+   padding: 10px 10px ;
+   margin: 10px ;
+}
+.buttons:hover{
+    font-size: 2em;
+    background-color: black;
+    transition: 0.25s;
+}
+h3{
+    font-size: 4em;
+    text-align: center;
+}
