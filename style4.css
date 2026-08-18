@@ -1,0 +1,9 @@
+body{
+    font-size: 3em;
+    text-align: center;
+}
+#mysubmit{
+    font-size: 2em;
+    margin: 25px;
+    border-radius: 20px;
+}
